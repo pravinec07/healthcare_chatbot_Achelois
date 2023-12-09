@@ -1,0 +1,90 @@
+[
+  {
+    "id": "afdac24d-0d94-4263-a4cb-e736e74f8dab",
+    "data": [
+      {
+        "text": "I am able to concentrate well!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c6e4c073-dea9-423c-a599-f2378206d0c1",
+    "data": [
+      {
+        "text": "Yes, I can concentrate well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa0e6ea6-8cd6-4860-94a6-86e1d4e832f7",
+    "data": [
+      {
+        "text": "Nope",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523130454
+  },
+  {
+    "id": "261b88ca-aa3d-4058-aebb-ff38b2703e2d",
+    "data": [
+      {
+        "text": "I am able to manage well with my daily activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523130454
+  },
+  {
+    "id": "3c637fd4-d41f-4687-a7bd-27fad9167390",
+    "data": [
+      {
+        "text": "NO",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523130454
+  },
+  {
+    "id": "e22e5f99-f0f4-4bec-8d3e-ecb712c00e5e",
+    "data": [
+      {
+        "text": "It\u0027s not difficult for me to concentrate on my daily tasks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523130011
+  },
+  {
+    "id": "df91f487-eb46-47d0-bdaf-9ff2c1a49b9c",
+    "data": [
+      {
+        "text": "I can concentrate well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523130011
+  }
+]

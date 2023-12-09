@@ -1,0 +1,180 @@
+[
+  {
+    "id": "2788f99f-2fb7-4dc9-a1ed-9c81e7ccd54b",
+    "data": [
+      {
+        "text": "ok",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", lets talk about something else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c8cfd2e5-5e3a-4885-830f-f95c39dc8ed1",
+    "data": [
+      {
+        "text": "ok",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", lets move on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc68a902-6981-433e-8273-59d4785d4e2e",
+    "data": [
+      {
+        "text": "Ok let\u0027s talk about something else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b9c25c0-03ab-40a9-bb72-8b47859b5fac",
+    "data": [
+      {
+        "text": "ok",
+        "alias": "feelings",
+        "meta": "@feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523125829
+  },
+  {
+    "id": "328d4064-aeac-49ea-ad6d-5be77c485be1",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "alias": "feelings",
+        "meta": "@feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523125829
+  },
+  {
+    "id": "1258daed-d106-4778-8c7f-12a3b1e32c33",
+    "data": [
+      {
+        "text": "yeah",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", let us talk about something else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef23cdda-7514-4423-95a4-f7c4e2ba6edf",
+    "data": [
+      {
+        "text": "okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523125829
+  },
+  {
+    "id": "7ca98fb2-51c6-43b9-a021-e8dc090c3a17",
+    "data": [
+      {
+        "text": "yeah,",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": " we can talk about something else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523132514
+  },
+  {
+    "id": "32f0d76a-b488-4208-9f9c-d7c93eb36c86",
+    "data": [
+      {
+        "text": "let\u0027s go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523125829
+  },
+  {
+    "id": "1353d2ca-3e66-4bd4-8c34-c85dae841f15",
+    "data": [
+      {
+        "text": "let\u0027s move on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523125829
+  },
+  {
+    "id": "bf1e9636-578a-41b8-b513-6ea198296418",
+    "data": [
+      {
+        "text": "sure",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523125829
+  },
+  {
+    "id": "ebaf5319-a84f-465d-b09b-518ffd62cef1",
+    "data": [
+      {
+        "text": "hmmmm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523125829
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "f2ad0070-22b3-4d14-b4a6-d3d5416ce6f0",
+    "data": [
+      {
+        "text": "my sleep cycle was bad over the past week",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d6cd5f9-9cb9-4657-a52e-5facf668419b",
+    "data": [
+      {
+        "text": "My sleep cycle also is bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6cf4716-58f2-40ed-ae0e-d6d9b6ee8d3d",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": true
+      },
+      {
+        "text": ", I am not getting enough sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "013c57da-14cb-4361-b3db-b318e000b907",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my sleep cycle is bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f74ce6b-5e06-4691-8ee7-f3fdc725af30",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": " my sleep cycle is bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c78c1fc1-a4cf-4503-8b0d-e63c173813a1",
+    "data": [
+      {
+        "text": "yes,",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": " my sleep cycle is bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689364
+  },
+  {
+    "id": "8fc290e7-1dd6-4d11-ae42-a8ce517d43a6",
+    "data": [
+      {
+        "text": "sure",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689364
+  },
+  {
+    "id": "c5e918f4-f985-4ecf-b9d4-d22f7b57a2d3",
+    "data": [
+      {
+        "text": "ok",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689364
+  },
+  {
+    "id": "0362d8eb-7bb4-46af-9adf-6095009633f0",
+    "data": [
+      {
+        "text": "yes,",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": true
+      },
+      {
+        "text": " I am having bad sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689364
+  },
+  {
+    "id": "cc6f9c77-1a8c-49bb-be9a-b2eb9fe085af",
+    "data": [
+      {
+        "text": "yep, I am not able to sleep well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689364
+  },
+  {
+    "id": "910ed37c-bb68-49d9-8f26-5538045a226b",
+    "data": [
+      {
+        "text": "yeah",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689364
+  }
+]

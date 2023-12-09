@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cf4a702a-20f4-476b-b928-b01291743752",
+    "data": [
+      {
+        "text": "ok, sure. ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523126836
+  }
+]

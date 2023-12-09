@@ -1,0 +1,173 @@
+[
+  {
+    "id": "29c21c3c-e4ac-49b0-83f3-72f1104b2c57",
+    "data": [
+      {
+        "text": "I like being with ",
+        "userDefined": false
+      },
+      {
+        "text": "Jack",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Jill",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "508e906b-def8-4d50-aeac-e58bc273e4ad",
+    "data": [
+      {
+        "text": "I enjoy being with ",
+        "userDefined": false
+      },
+      {
+        "text": "Jack",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Jill",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff098a43-c554-4367-83af-4f591d9d088e",
+    "data": [
+      {
+        "text": "I enjoy being with my friends Rayn, Simmi and ",
+        "userDefined": false
+      },
+      {
+        "text": "Nat",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ecb447f-c869-4955-bae9-a535f2ce02d6",
+    "data": [
+      {
+        "text": "No",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", I don\u0027t have any friends.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136223
+  },
+  {
+    "id": "34b16d38-10ca-4a6a-8393-381be286dd9b",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136223
+  },
+  {
+    "id": "16256f67-73e0-4563-8ec7-c4265e4b2f30",
+    "data": [
+      {
+        "text": "I enjoy being with ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136223
+  },
+  {
+    "id": "4a6e1639-2c86-434c-9288-74c6a42e9185",
+    "data": [
+      {
+        "text": "A",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136223
+  },
+  {
+    "id": "6b019ba1-b1bc-45e4-be61-ea070ca90021",
+    "data": [
+      {
+        "text": "These are my friends - ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136223
+  },
+  {
+    "id": "32ec2d69-d0e6-4e6c-b33a-031032975c4f",
+    "data": [
+      {
+        "text": "Nope, I dont have any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
