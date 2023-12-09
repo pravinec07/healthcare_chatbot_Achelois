@@ -1,0 +1,207 @@
+[
+  {
+    "id": "36b438e4-7add-464b-9346-378188122005",
+    "data": [
+      {
+        "text": "My appetite is ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "alias": "negativeFeelings",
+        "meta": "@negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ddca083-8943-4b02-8d9b-5bfcb51c4e00",
+    "data": [
+      {
+        "text": "My appetite seems to be bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65e057be-91af-49b0-bcf3-82334a0a2506",
+    "data": [
+      {
+        "text": "Yes",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite seems to be bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b7456f3-b1ba-4f82-8a16-a995d20d54a1",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite seems to be bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00bc3208-441c-4f20-8a27-c23b4ab0d0e6",
+    "data": [
+      {
+        "text": "Yes",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite is ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "alias": "negativeFeelings",
+        "meta": "@negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "836f72d4-f49d-4ede-ae80-1def30ebec1e",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite is ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "alias": "negativeFeelings",
+        "meta": "@negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525060084
+  },
+  {
+    "id": "2c65b615-9d25-4e82-8165-6e8db5bf4a47",
+    "data": [
+      {
+        "text": "my appetite seems to be bad these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c255a3ad-54b4-4964-b3f5-b53f5fa2426d",
+    "data": [
+      {
+        "text": "no",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite seems to be bad these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b33569b4-a189-47ac-bf6c-30e036611350",
+    "data": [
+      {
+        "text": "my",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " appetite seems to be bad these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01cb7539-e48f-42e1-8eab-58e78b35ca96",
+    "data": [
+      {
+        "text": "nah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523128214
+  },
+  {
+    "id": "ee2eb85a-1f34-4bfc-985a-c0ef23616e20",
+    "data": [
+      {
+        "text": "no",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524032645
+  },
+  {
+    "id": "4787c63e-3169-4eb7-8b2e-a2a0fce4d78e",
+    "data": [
+      {
+        "text": "no,",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      },
+      {
+        "text": " my appetite seems to be bad these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523132614
+  }
+]
